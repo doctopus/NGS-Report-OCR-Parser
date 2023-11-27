@@ -9,7 +9,7 @@
 ![READ ME Image of Project](https://cdn.european-virus-archive.com/sites/default/files/field/image/NGS.jpg)
 
 <br />
-The data folder contains input and output folders.
+OCR Image Parser: The script takes images and PDFs and parses the text in json. The data folder contains input and output folders.
 
 The script iterates over the files  and processes differently.
 
