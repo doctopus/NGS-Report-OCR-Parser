@@ -6,8 +6,6 @@ import json
 # Define Input and Output Directories
 input_directory = 'data/input'
 output_directory = 'data/output'
-
-
 def process_file(file_path):
     file_extension = os.path.splitext(file_path)[1].lower()
 
