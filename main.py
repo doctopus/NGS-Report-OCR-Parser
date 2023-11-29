@@ -31,13 +31,11 @@ def process_file(file_path):
     else:
         print(f"Unsupported file format: {file_extension}")
 
-
 def process_files_in_directory(directory):
     for file_name in os.listdir(directory):
         file_path = os.path.join(directory, file_name)
         if os.path.isfile(file_path):
             process_file(file_path)
-
 
 # Ensure the output directory exists
 if not os.path.exists(output_directory):
