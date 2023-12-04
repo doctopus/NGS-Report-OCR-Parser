@@ -17,7 +17,7 @@ When it encounters an image file (.jpeg or .png) it is processed by OCR using [T
 
 The data/input folder when contains .pdf files these are parsed using [Camelot](https://camelot-py.readthedocs.io/en/master/).
 
-The output files are stored in data/output folder in as filename.json 
+The output files are stored in data/output folder as filename.json 
 
 
 
