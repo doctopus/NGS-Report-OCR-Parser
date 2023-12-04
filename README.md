@@ -27,6 +27,6 @@ The output files are stored in data/output folder as filename.json
 
 
 
-<h6>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</h6>
+<h7>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</h7>
 <div style="width:300px; height:200px">
 </div>
